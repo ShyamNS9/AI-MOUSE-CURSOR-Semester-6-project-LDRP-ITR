@@ -7,7 +7,7 @@
     Bhautik Sakhiya     19BECE30506  
 
 ## TEAM-MENTOR
-     prof. Hitesh Barot
+    prof. Hitesh Barot
 
 ## INTRODUCTION
    This is the repository where our team will push all the learning codes and implementation codes from which we have made our project called AI MOUSE CURSOR.     
